@@ -1,0 +1,12 @@
+---
+
+galaxy_info:
+  author: <name>
+  description: <description>
+  license: <license_name>
+  min_ansible_version: 1.7
+  platforms:
+    - name: Redhat
+  categories:
+    - system
+dependencies: []
