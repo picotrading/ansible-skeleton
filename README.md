@@ -1,4 +1,4 @@
-Role name
+role_name
 =========
 
 Short description of the role.

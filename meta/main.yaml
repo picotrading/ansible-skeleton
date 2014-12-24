@@ -6,7 +6,9 @@ galaxy_info:
   license: <license_name>
   min_ansible_version: 1.7
   platforms:
-    - name: Redhat
+    - name: <platform>
+      versions:
+        - <platform_version>
   categories:
     - system
 dependencies: []
