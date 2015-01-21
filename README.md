@@ -37,10 +37,10 @@ Dependencies
 License
 -------
 
-License name
+<license_name>
 
 
 Author
 ------
 
-Author Name
+<authors_name>

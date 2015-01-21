@@ -1,7 +1,7 @@
 ---
 
 galaxy_info:
-  author: <name>
+  author: <authors_name>
   description: <description>
   license: <license_name>
   min_ansible_version: 1.7
